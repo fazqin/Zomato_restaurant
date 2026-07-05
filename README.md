@@ -11,16 +11,16 @@
 
 ##  Daftar Isi
 
-- [Ringkasan Proyek](#-ringkasan-proyek)
-- [Problem Statement](#-problem-statement)
-- [Metodologi](#-metodologi)
-- [Key Findings](#-key-findings)
-- [Tech Stack](#️-tech-stack)
-- [Installation & Setup](#-installation--setup)
-- [Project Structure](#-project-structure)
-- [Model Performance](#-model-performance)
-- [Business Insights](#-business-insights)
-- [Future Improvements](#-future-improvements)
+- [Ringkasan Proyek](#ringkasan-proyek)
+- [Problem Statement](#problem-statement)
+- [Metodologi](#metodologi)
+- [Key Findings](#key-findings)
+- [Tech Stack](#️tech-stack)
+- [Installation & Setup](#installation--setup)
+- [Project Structure](#project-structure)
+- [Model Performance](#model-performance)
+- [Business Insights](#business-insights)
+- [Future Improvements](#future-improvements)
 
 ---
 
